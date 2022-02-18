@@ -6,8 +6,9 @@
 - 🔥 Estou no começo mas espero evoluir bastante com o tempo 
 <div align="center">
   <a href="https://github.com/Ketelleen">
-  <img width="175em" src="https://github-readme-stats.vercel.app/api?username=Ketelleen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="136em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketelleen&layout=compact&langs_count=7&theme=dark"/>
+  <img height="189em" src="https://github-readme-stats.vercel.app/api?username=Ketelleen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ketelleen&layout=compact&langs_count=7&theme=dark"/>
+  <display="flex">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
