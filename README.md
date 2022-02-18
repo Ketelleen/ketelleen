@@ -16,7 +16,8 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/941760390939938886/944266672804601946/Webp.net-gifmaker.gif">
 
   
- ![Snake animation](https://github.com/Ketelleen/ketelleen/blob/main/.github/workflows/main.yml)
+ ![Snake animation](https://github.com/Ketelleen/ketelleen/blob/output/github-contribution-grid-snake.svg)
+ 
 
   </div>
  
