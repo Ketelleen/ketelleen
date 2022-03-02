@@ -4,6 +4,7 @@
 - 🌱 Utimamente ando estudando pra ser front-end
 - 💪 Me esfoço bastante pra aprender 
 - 🔥 Estou no começo mas espero evoluir bastante com o tempo 
+
 <div>
   <a href="https://github.com/Ketelleen">
  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Ketelleen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
