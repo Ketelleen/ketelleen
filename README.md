@@ -1,6 +1,6 @@
 ## Oii! Sou Ketelleen Gomes .
 
-- ✨ Tenho  14 anos
+- ✨ Tenho  13 anos
 - 🌱 Utimamente ando estudando pra ser front-end
 - 💪 Me esfoço bastante pra aprender 
 - 🔥 Estou no começo mas espero evoluir bastante com o tempo 
